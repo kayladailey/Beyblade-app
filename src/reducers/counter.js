@@ -10,7 +10,6 @@ const kenzieReducer = (state = 0, action) => {
         default:
             return state;
     }
-    
 }
 
 export default kenzieReducer;
